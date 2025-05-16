@@ -34,7 +34,7 @@
 
 🌟 Built with: React Native (Expo), Firebase Auth & Storage, Node.js, MongoDB  
 ✅ Features: Image upload, search, like system, meal planner, grocery list  
-🔗 [Check it out on GitHub](https://github.com/aadityasahani78/MealMate)
+🔗 [Check it out on GitHub](https://github.com/aaditya7788/MealMate)
 
 ---
 
@@ -61,7 +61,7 @@
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/aadityasahani78)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Aaditya84197943)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Aaditya4455)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:aadityasahani78@gmail.com)
 
 ---
