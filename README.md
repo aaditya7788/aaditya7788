@@ -40,11 +40,21 @@
 
 ### 📈 GitHub Stats
 
-![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaditya7788&theme=dark&show_icons=true&hide_border=true&count_private=true)
-
-![aaditya7788's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aaditya7788&theme=dark&hide_border=true)
-
-![aaditya7788's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaditya7788&theme=dark&show_icons=true&hide_border=true&layout=compact)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=aaditya7788&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaditya7788&theme=dark&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaditya7788&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+    </td>
+  </tr>
+</table>
 
 ---
 
